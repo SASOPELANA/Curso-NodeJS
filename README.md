@@ -33,4 +33,4 @@ Un evento es una notificación que se emite cuando se produce algún cambio en e
 
 - ¿Qué es un proceso?
 
-  Un proceso es una instancia de Node.js que se ejecuta en el sistema operativo. En Node.js, cada proceso es independiente y puede ejecutar código JavaScript independientemente de otros procesos.
+Un proceso es una instancia de Node.js que se ejecuta en el sistema operativo. En Node.js, cada proceso es independiente y puede ejecutar código JavaScript independientemente de otros procesos.
