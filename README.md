@@ -22,3 +22,15 @@ NPM es el gestor de paquetes de Node.js. Es una herramienta que se utiliza para 
 - ¿Qué es Yarn?
 
 Yarn es un gestor de paquetes de Node.js que se utiliza para instalar, actualizar y administrar paquetes de Node.js.
+
+- Es una arquitectura de orientación a eventos.
+
+  Node.js es una arquitectura de orientación a eventos. En Node.js, el código se ejecuta en un único proceso, y los eventos se utilizan para comunicar entre procesos.
+
+  - ¿Qué es un evento?
+
+    Un evento es una notificación que se emite cuando se produce algún cambio en el sistema. En Node.js, los eventos se utilizan para comunicar entre procesos, y se pueden utilizar para implementar comportamientos de negocio complejos.
+
+  - ¿Qué es un proceso?
+
+    Un proceso es una instancia de Node.js que se ejecuta en el sistema operativo. En Node.js, cada proceso es independiente y puede ejecutar código JavaScript independientemente de otros procesos.
