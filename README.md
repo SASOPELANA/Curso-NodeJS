@@ -34,3 +34,12 @@ Un evento es una notificación que se emite cuando se produce algún cambio en e
 - ¿Qué es un proceso?
 
 Un proceso es una instancia de Node.js que se ejecuta en el sistema operativo. En Node.js, cada proceso es independiente y puede ejecutar código JavaScript independientemente de otros procesos.
+
+- ¿Que es globalThis?
+
+Es una variable global que se utiliza para acceder a la ventana global del navegador. En Node.js, globalThis se utiliza para acceder a la ventana global del navegador.
+
+- En el navegador la variable es window.
+- En Node.js la variable es globalThis. --> global
+
+* Todas la variables como console.log, window, document, Math son variables globales --> pertenecen a globalThis
