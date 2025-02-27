@@ -43,3 +43,5 @@ Es una variable global que se utiliza para acceder a la ventana global del naveg
 - En Node.js la variable es globalThis. --> global
 
 * Todas la variables como console.log, window, document, Math son variables globales --> pertenecen a globalThis
+
+- Callbacks --> funcion que se ejecuta cuando se cumple una tarea asincrona

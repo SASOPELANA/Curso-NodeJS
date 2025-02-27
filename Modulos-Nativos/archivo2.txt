@@ -1,0 +1,7 @@
+Vamos a codear 
+Astro 
+React 
+Node.js
+Tailwind CSS 
+
+Callbacks --> funcion que se ejecuta cuando se cumple una tarea asincrona
